@@ -14,10 +14,6 @@ Alt-Bot uses APIs from Twitter and [CloudSight](http://cloudsightapi.com/) to re
 
 Some people asked why anyone cares about meme photos or [what I ate for dinner](https://twitter.com/alt_text_bot/status/589771333015306240). My response was "We don't get to decide who cares". We need to make sure *everyone* is involved in the *entire* conversation, even if it's mostly trivial. We decide for ourselves what's important.
 
-## Accomplishments that I'm proud of
-
-The application has captured the attention and imagination of people on Twitter. There have been almost 100 transcriptions by 2:30pm on Sunday, and a handful of [notable retweets](https://twitter.com/AccessTechcomm/status/589663756365537281). I'm very happy with the quality of the descriptions too.
-
 ## What I learned
 
 I learned not to expect anyone to work harder for the same content. The people I talked to wanted image descriptions inline instead of posting or retweeting. I've already started work on a Twitter client to make this possible.
