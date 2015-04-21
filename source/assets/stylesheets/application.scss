@@ -5,3 +5,18 @@
 @import "neat";
 
 @import "global";
+
+body {
+  color: #111;
+  background-color: #fff;
+  font-size: 120%
+}
+
+.container {
+  @include outer-container(300px);
+  padding: 10% 0;
+}
+
+h1 {
+  font-size: 140%;
+}
